@@ -1,6 +1,10 @@
 <h1 align="center">// JS Gustavo Valentim</h1>
 <h3 align="center">// Backend API with JWT</h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/borntodie13213/borntodie13213/main/giphy.gif" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borntodie13213&label=Profile%20views&color=0e75b6&style=flat" alt="borntodie13213" /> </p>
 
 - 🔭 Atualmente estou trabalhando em **API de Autenticação com JWT (Node.js + MongoDB)**
