@@ -21,7 +21,7 @@
 
 - 📄 Conheça minhas experiências [Desenvolvedor Backend Júnior](Desenvolvedor Backend Júnior)
 
-- ⚡ Curiosidade **Aprendo mais rápido quebrando coisas e consertando depois**
+- ⚡ Curiosidade **Atuei no desenvolvimento e manutenção de um sistema back-end voltado para controle de usuários e autenticação, simulando um ambiente real de aplicação web.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
