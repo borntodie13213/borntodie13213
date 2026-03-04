@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borntodie13213&label=Profile%20views&color=0e75b6&style=flat" alt="borntodie13213" /> </p>
 
-- 🔭 Atualmente estou trabalhando em **API de Autenticação com JWT (Node.js + MongoDB)**
+- 🔭 Atualmente estou trabalhando em **Projeto em DART (Flutter)**
 
 - 👯 Procuro colaborar em **Projetos backend com Node.js, APIs REST e autenticação**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/borntodie13213](https://github.com/borntodie13213)
 
-- 💬 Pode me perguntar sobre **JavaScript, Node.js, APIs, autenticação JWT e fundamentos de backend**
+- 💬 Pode me perguntar sobre **JavaScript, Dart, Node.js, APIs, autenticação JWT e fundamentos de backend**
 
 - 📫 Como entrar em contato comigo **gugavalentim1@gmail.com**
 
