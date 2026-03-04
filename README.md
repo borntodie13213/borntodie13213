@@ -19,7 +19,7 @@
 
 - 📫 Como entrar em contato comigo **gugavalentim1@gmail.com**
 
-- 📄 Conheça minhas experiências [Desenvolvedor Backend Júnior](Desenvolvedor Backend Júnior)
+- 📄 Conheça minhas experiências [Desenvolvedor Back End Junior, Front End Junior (Dart)]
 
 - ⚡ Curiosidade **Atuei no desenvolvimento e manutenção de um sistema back-end voltado para controle de usuários e autenticação, simulando um ambiente real de aplicação web.**
 
